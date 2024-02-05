@@ -1,3 +1,4 @@
+<img align="right" src="https://count.getloli.com/get/@:Crystal0404?theme=rule34">
 ## Crystal_0404
 
 你好~
