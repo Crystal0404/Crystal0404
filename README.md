@@ -1,8 +1,6 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+## Crystal_0404
 
-## 前端工程师—天平
-
-热爱前端、热爱技术。工作经验2年。喜欢参与一些开源项目的讨论。
+你好~
 
 ### **社交主页：**
 
@@ -24,15 +22,15 @@
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
-### 开源项目
+### 我的项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Crystal0404&repo=CrystalCarpetAddition)](https://github.com/Crystal0404/CrystalCarpetAddition)
 <br><br><br>
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=Crystal0404&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Crystal0404's github stats](https://github-readme-stats.vercel.app/api?username=Crystal0404&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crystal0404&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Crystal0404&layout=compact&langs_count=6)
