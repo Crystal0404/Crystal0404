@@ -2,8 +2,6 @@
 
 ## Crystal_0404
 
-Hello!
-
 人菜瘾又大
 
 ### My project
