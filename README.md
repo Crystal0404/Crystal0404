@@ -13,4 +13,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Crystal0404&layout=compact&langs_count=6)
 
 [![](https://activity-graph.herokuapp.com/graph?username=Crystal0404&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Crystal0404's github stats](https://github-readme-stats.vercel.app/api?username=Crystal0404&show_icons=true&theme=vue)
+[![Crystal0404's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crystal0404)](https://github.com/Crystal0404/github-readme-stats)
